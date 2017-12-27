@@ -13,7 +13,7 @@ $(document).ready(function () {
         function redirect() {
             $('.loader').hide();
             $('#loading').hide();
-            window.location.href = "body.html"
+            window.location.href = "html/body.html"
         };
     }
 
